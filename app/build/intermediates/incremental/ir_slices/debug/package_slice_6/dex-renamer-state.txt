@@ -1,0 +1,4 @@
+#Fri Oct 12 08:18:25 ICT 2018
+base.0=C\:\\AndroidProject\\TestMVPJunit\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
